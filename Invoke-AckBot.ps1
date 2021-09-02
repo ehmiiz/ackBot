@@ -18,7 +18,7 @@ $pbc.BotAdmins = @('Ehmiiz')
 
 $backendConfig = @{
     Name     = 'DiscordBackend'
-    Token    = 'ODgyOTc4OTI1ODU5NDY3MzA1.YTDQNA.BrO87Oi_jLNLUsCza-AcoEJ7BGM'
+    Token    = 'xD'
     ClientId = '882978925859467305'
     GuildId  = '816387235564748861'
 }
