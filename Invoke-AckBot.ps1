@@ -1,7 +1,7 @@
 <#
 .NOTES
 
-    token: ODgyOTc4OTI1ODU5NDY3MzA1.YTDQNA.BrO87Oi_jLNLUsCza-AcoEJ7BGM
+    token: xD
     perm: 2147736640
     clientid: 882978925859467305
 
@@ -19,7 +19,7 @@ $pbc.BotAdmins = @('Ehmiiz')
 
 $backendConfig = @{
     Name     = 'DiscordBackend'
-    Token    = 'ODgyOTc4OTI1ODU5NDY3MzA1.YTDQNA.AucWUBapMiYWQmDa4GVUHbMecLo'
+    Token    = 'xD'
     ClientId = '882978925859467305'
     GuildId  = '816387235564748861'
 }
