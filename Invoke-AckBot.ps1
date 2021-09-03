@@ -9,6 +9,7 @@
     https://discordapp.com/oauth2/authorize?&client_id=882978925859467305&scope=bot&permissions=2147736640
 
     Server ID: 385174884868816906
+    #
 #>
 
 Import-Module PoshBot
@@ -18,7 +19,7 @@ $pbc.BotAdmins = @('Ehmiiz')
 
 $backendConfig = @{
     Name     = 'DiscordBackend'
-    Token    = 'ODgyOTc4OTI1ODU5NDY3MzA1.YTDQNA.BrO87Oi_jLNLUsCza-AcoEJ7BGM'
+    Token    = 'ODgyOTc4OTI1ODU5NDY3MzA1.YTDQNA.AucWUBapMiYWQmDa4GVUHbMecLo'
     ClientId = '882978925859467305'
     GuildId  = '816387235564748861'
 }
